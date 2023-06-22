@@ -727,7 +727,7 @@
 /* section featured */
 .featured {
   padding: 48px 0;
-  background: url("../images/featured_bg.jpg") no-repeat center / cover;
+  background: url("../images/featured_bg.webp") no-repeat center / cover;
 }
 .featured .category-featured {
   color: #fff;
